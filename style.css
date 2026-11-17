@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: chartreuse;
+    background-color: black;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: purple;
+    background-color: bisque;
+}
